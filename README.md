@@ -1,2 +1,2 @@
 # Pruebacurso
-Primera toma de contacto
+Curso git Online primera prueba
